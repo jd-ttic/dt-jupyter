@@ -1,0 +1,6 @@
+# LIST YOUR PYTHON3 PACKAGES HERE
+duckietown-shell
+duckietown-utils-daffy 
+matplotlib 
+ipympl 
+ipython
